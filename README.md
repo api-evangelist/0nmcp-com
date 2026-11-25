@@ -66,7 +66,7 @@
 
 The white-label AI engine behind the agency stack — an agency copilot, a US-based agency CRM and client portals on one connection to 1,630 tools across 97 services. White-label AI infrastructure for marketing agencies: an agency copilot, a US-based agency CRM, client portals, and consulting to finish stalled or half-built applications under the agency own brand.
 
-**Areas:** AI · White-label · Agency · CRM · Integration · Marketing
+**Areas:** Artificial Intelligence · White Label · Agency · CRM · Integration · Marketing
 
 ## 0nMCP on APIs.io
 
@@ -84,20 +84,20 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [0Nmcp Com Authentication](https://apis.io/security/0nmcp-com/0nmcp-com-authentication/)
-- [0Nmcp Com Domain Security](https://apis.io/security/0nmcp-com/0nmcp-com-domain-security/)
+- [0nMCP Authentication](https://apis.io/security/0nmcp-com/0nmcp-com-authentication/)
+- [0nMCP Domain Security](https://apis.io/security/0nmcp-com/0nmcp-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [0Nmcp Com Scopes](https://apis.io/scopes/0nmcp-com/0nmcp-com-scopes/)
+- [0nMCP Scopes](https://apis.io/scopes/0nmcp-com/0nmcp-com-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [0Nmcp Com Rate Limits](https://apis.io/rate-limits/0nmcp-com/0nmcp-com-rate-limits/)
+- [0nMCP Rate Limits](https://apis.io/rate-limits/0nmcp-com/0nmcp-com-rate-limits/)
 
 ## Where to find this API
 
@@ -112,25 +112,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 18.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 23.7 |
+| Operational transparency | 21.4 |
 | Developer ergonomics | 14.3 |
-| Access clarity | 23.7 |
+| Access clarity | 23.4 |
 
-**Agent readiness 28.2** — agent-aware
+**Agent readiness 24.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -148,6 +148,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
 
